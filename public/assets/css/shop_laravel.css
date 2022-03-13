@@ -1,0 +1,239 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+    font-family: Georgia, serif;
+    color: black;
+    text-shadow: 2px 2px 4px white;
+}
+
+.bgmod1 {
+    background-image: url("pptcover.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hidden {
+    display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+    font-family: Georgia, serif;
+    color: black;
+    /*text-shadow: 1px 1px 7px rgba(255, 249, 192, 1); */
+    text-shadow: 0px 0px 30px rgba(255, 249, 192, 1),0px 0px 30px rgba(255, 249, 192, 1),0px 0px 30px rgba(255, 249, 192, 1),0px 0px 10px rgba(255, 249, 192, 1),0px 0px 10px rgba(255, 249, 192, 1);
+    
+
+}
+
+.navchar{
+
+    font-family: Georgia, serif;
+    color: black;
+    text-shadow: 1px 1px 7px rgba(0, 0, 0, 1); 
+
+}
+
+table {
+
+    margin: 20px;
+    background-color: rgba(255, 249, 192, 0.8); 
+    box-shadow: 0 0 10px 20px rgba(255, 249, 192, 0.8); 
+
+}
+
+.hbox {
+
+    margin: 30px;
+    background-color: rgba(255, 255, 255, 0.5); 
+    box-shadow: 0 0 10px 20px rgba(255, 255, 255, 0.5); 
+
+}
+
+.bbox {
+
+    margin: 30px;
+    background-color: rgba(192, 255, 225, 0.5); 
+    box-shadow: 0 0 10px 10px rgba(192, 255, 255, 0.5); 
+
+}
+
+.bhead {
+
+    text-shadow: 0px 0px 30px rgba(128, 255, 192, 1),0px 0px 30px rgba(128, 255, 192, 1),0px 0px 30px rgba(128, 255, 192, 1),0px 0px 10px rgba(128, 255, 192, 1),0px 0px 10px rgba(128, 255, 192, 1);
+
+}
+
+.charglow {
+
+    text-shadow: 0px 0px 30px rgba(255, 192, 128, 1),0px 0px 30px rgba(255, 192, 128, 1),0px 0px 30px rgba(255, 192, 128, 1),0px 0px 10px rgba(255, 192, 128, 1),0px 0px 10px rgba(255, 192, 128, 1);
+
+}
+
+.logohome {
+    padding: 6px;
+    width: 100%;
+    max-width: 240px;
+    height: auto;
+      }
+
+      .grow {
+        padding: 4px;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        margin: 20px;
+        background-color: rgba(255, 249, 192, 0.8); 
+        box-shadow: 0 0 10px 20px rgba(255, 249, 192, 0.8); 
+    }
+
+    .gcolumn {
+        margin: 4px;
+        flex: 25%;
+        padding: 10px;
+    }
+
+    .bghome {
+        background-image: url("cover001.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+    }
+
+    .bgcontact {
+        background-image: url("cover006.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+    }
+
+    .bgrsc {
+        background-image: url("cover009.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+        padding: 10px;
+    }
+
+    .bgabout {
+        background-image: url("cover003.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+        padding: 10px;
+    }
+
+    .bggal {
+        background-image: url("cover004.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+    }
+
+    .bgsitemap {
+        background-image: url("cover002.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+    }
+
+    .bgshop {
+        background-image: url("cover008.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+    }
+
+    .bgnews {
+        background-image: url("cover007.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+    }
+
+    .bgprof {
+        background-image: url("cover010.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+    }
+
+    .bgprof2 {
+        background-image: url("cover010.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .bgpub {
+        background-image: url("cover011.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+    }
+
+    .bgauth {
+        background-image: url("cover013.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+    }
+
+    .bgawards {
+        background-image: url("cover012.jpg");
+        background-color: #fff;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        box-shadow: 0 0 20px 20px white inset; 
+    }
+
+    .cell {
+
+        background: rgba(255, 249, 192, 0.8);
+        -webkit-columns: 235px auto;
+        columns: 235px auto;
+        -webkit-column-gap: 0;
+        column-gap: 0;
+
+    }
+
+    .cell th{
+        border-style: dotted;
+        border-color:saddlebrown;
+        overflow-x: auto;
+    }
+
+    .cell td{
+        border-style: dotted;
+        border-color:coral;
+    }
+
+    .centre {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%)
+    }
